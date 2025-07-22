@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: weblog
 ---
 
-# My Blog Posts
+# weblog
 
 <ul>
   {% for post in site.posts %}
