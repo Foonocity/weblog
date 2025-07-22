@@ -3,7 +3,7 @@ layout: default
 title: weblog
 ---
 
-# weblog
+# posts
 
 <ul>
   {% for post in site.posts %}
