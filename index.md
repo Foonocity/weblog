@@ -6,9 +6,9 @@ title: weblog
 # posts
 
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%b %-d, %Y" }}
-    </li>
-  {% endfor %}
+{% for post in site.posts %}
+  {% if post.path contains '_posts/' %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %}
+{% endfor %}
 </ul>
