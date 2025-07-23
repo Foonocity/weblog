@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="https://nick.miller.how/images/favicon.png" type="image/png">
+    <link rel="alternate" type="application/rss+xml" 
+      title="{{ site.title }}" 
+      href="{{ site.baseurl }}/weblog/feed.xml" />
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -12,9 +15,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-    <link rel="alternate" type="application/rss+xml" 
-      title="{{ site.title }}" 
-      href="{{ site.baseurl }}/weblog/feed.xml" />
   </head>
   <body>
     <div class="wrapper">
