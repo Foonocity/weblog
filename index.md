@@ -8,7 +8,7 @@ title: weblog
 <ul>
 {% for post in site.posts %}
   {% if post.path contains '_posts/' %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
