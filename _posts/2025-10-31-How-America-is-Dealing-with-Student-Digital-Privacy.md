@@ -111,4 +111,4 @@ Ultimately, the creation of Student privacy regulation presents an incredibly tu
 
 [^25]: Student Online Personal Information Protection Act, S. 1177, 839 (Cal. Stat. 2014). https://www.leginfo.legislature.ca.gov/faces/billVersionsCompareClient.xhtml?bill\_id=201320140SB1177
 
-[back](nick.miller.how/weblog)
+[back](/)
