@@ -8,9 +8,10 @@ layout: default
 # How America is Dealing with Student Digital Privacy
 
 *Nick Miller*
+
 10/30/2025
 
-A long history with much progress to be made.
+*A long history with much progress to be made.*
 
 ![How America is Dealing with Student Digital Privacy](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxMHx8c3R1ZGVudHN8ZW58MHx8fHwxNjY0MjM0MTM5&ixlib=rb-1.2.1&q=80&w=1200)
 
@@ -116,4 +117,6 @@ Ultimately, the creation of Student privacy regulation presents an incredibly tu
 
 [^25]: Student Online Personal Information Protection Act, S. 1177, 839 (Cal. Stat. 2014). https://www.leginfo.legislature.ca.gov/faces/billVersionsCompareClient.xhtml?bill\_id=201320140SB1177
 
-[back](/)
+
+
+[back](/weblog)
